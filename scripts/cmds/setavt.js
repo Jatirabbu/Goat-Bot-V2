@@ -9,7 +9,7 @@ module.exports = {
 		countDown: 5,
 		role: 2,
 		shortDescription: {
-			vi: "Đổi avatar bot",
+			vi: "Đổi vatar bot",
 			en: "Change bot avatar"
 		},
 		longDescription: {
